@@ -1,0 +1,87 @@
+Grass
+Rock
+Forest
+Iron
+Field
+Lake
+Bog
+Constuct
+Mill
+Barracks
+Blacksmith
+Castle
+Smeltery
+Church
+Market
+Stone cutter
+Fisherman
+Lumber mill 
+Pig farm 
+Armourer
+Forester
+Start game
+Generate
+Small map
+Medium map
+Large map
+Little forest
+Medium forest
+Large forest
+Little water
+Medium water
+Many water
+Little rocks
+Medium rocks
+Many rocks
+Small resources
+Medium resources
+Many resources
+Exit
+Day
+(Buy)
+(Sell)
+Productive
+Bank
+Inventory
+Ride
+Build
+Terraform
+Upgrade
+Degrade
+Upkeep
+Missions
+Mission
+Random map
+Sandbox
+Load game
+Help
+Back
+Saved
+Loaded
+Cann`t save in sandbox mode
+Cann`t load in sandbox mode
+File not found
+Quest
+No quest in random mode
+Mission goal:
+At last! A perfect place for a new settlement! Start with building up your basic supply. Create a lumberjack and fishermen in order to store some wood and fish. Gather enough fish and wood to fill the storage of the castle.
+- 20 units wood- 20 units fish- 1 lumberjack- 2 fishermen
+The local king is not amused about your Townies starting a settlement on his land, so he is demanding high taxes. Yet the Townies are ignoring him. They'd rather invest their money. Create a sawmill to get some lumber and mine stones from the mountains. Upgrade your castle with the gathered lumber and stones to create more space for resources. Furthermore build mills and a pig farm in order to secure the food supply. A marketplace could help to get some gold by selling surplus resources.
+- 1 lumber mill- 1 stone cutter- 2 mills- 1 castle level 2- 1 pig farm- 40 units pigs
+You have been warned by the king! If you do not pay your taxes, he will send his army to collect the debt. You should better prepare for this! Mine the iron from the nearby mountains and produce tools and weapons. Upgrade the marketplace to sell more goods like iron and tools. Hurry up! The king will be here within 300 days!
+- 1 smeltery- 1 blacksmith- 1armourer- 1 castle level 2- 1 marketplace level 3- 40 units tools- 40 units weapons- achieve mission goal within 300 days!
+The king is very angry now! He announced that he will send his troops to teach you some manners. Meanwhile some of your Townies have traveled to the south. They have discovered valuable stone and iron sources in the mountains there. Yet in this area there are only few forests and lakes. Terraform this region to a suitable place for a new settlement. Create new forests and lakes and keep an eye on your gold. Your Townies will lose the faith in you if your gold drops too low. Furthermore you have to act quickly to get back to your main problem: the king.
+- terraform 10 map tiles- gold never drops below 100- achieve mission goal within 250 days
+The time has come! Troops of the king have marched out! Yet the king has not expected the courage of the Townies! A hidden outpost was created in a small swampy area. You can use it to start raids on the nearby camps of the king's army. Build at least two barracks and loot as many gold and goods as possible. A little blessing might be useful. Act quickly! Our hideout will not stay unnoticed forever.
+- 2 barracks- 15 successful raids- 200 coins of gold- achieve the mission goal within 100 days
+Hooray! The king's troops have been defeated! Your men have been divinely favored. Grateful, your Townies want to build a great church. Show what you have learned and lead your Townies in this swampy area to earthly and divine prosperity!
+- 800 coins of gold- 1 church level 3
+Rumor has it that there is a new and mysterious world far to the west over the great ocean. A paradise of most wondrous items and wealth. The king demands all these things for him and is starting an expedition. The Townies want to prevent the king's plan and started an expedition of their own. Win this race! A lot of gold, a good barracks and enough lumber will be necessary to build boats. Will the Townies be able to achieve all these things before the king does?
+- 1500 coins of gold- 20 successful raids- 1 barracks level 3- 80 lumber- achieve the mission goal within 650 days 
+Your sailors have reached the new world before the king. They returned with precious gems and other valuable items. Your trade with the new world is working well while the king is not able to make as much money as you do. Now you've got the chance to show him once and for all how to rule a kingdom. Build a city big enough to spread the word of your wealth and prosperity!
+- 1000 gold- 1 smeltery level 3- 1 pig farm level 3- 1 church level 3- 1 mill level 3- 1 lumber mill level 3- 1 blacksmith level 3- 1 fishermen level 3- 1 lumberjack level 3- 1 stone cutter level 3- 1 armourer level 3- 1 marketplace level 3- 1 barracks level 3
+Mission complate
+Terraformed
+Raids
+Continue game
+Ported by Gamemaker in 2013.

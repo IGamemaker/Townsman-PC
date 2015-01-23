@@ -1,0 +1,574 @@
+<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>
+
+                                  Townsmen 2
+                               FAQ/Walkthrough
+                                Final Version
+                          Skye7707 aKa Devon Kerkhove
+
+<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>==**==<<<>>>
+
+                               Table of Contents
+
+01. Legal Information
+02. Version History
+03. Introduction
+04. Story
+06. Townie & Tables
+07. FAQ
+08. Walkthrough
+09. Credits
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    01. Legal Information
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+This guide is complete as it is marked final, if you have some extra
+information, strategies, items, ... you can mail me at:
+
+skye7707     @    gmail   .    com
+
+This may be not be reproduced under any circumstances except for personal,
+private use. It may not be placed on any web site or otherwise distributed
+publicly without advance written permission. Use of this guide on any other
+web site or as a part of any public display is strictly prohibited, and a
+violation of copyright.
+Copyright (c) 2005 Devon Kerkhove
+All rights reserved.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    02. Version History
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+04/19/2005       Final Version          Complete guide
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    03. Introduction
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+It's time for the long awaited second part of the success title Townsmen! 
+This game captures the user with a well polished gameplay, cute graphics and 
+guarantees many hours of fun! 
+
+As the leader of the rebellious Townies, you seize a fertile province from the
+empire of the king. It supplies you with all the necessary resources to create
+a flourishing settlement that must also be defended. Use the various natural
+resources to build all the important infrastructures of your village and keep 
+the armed forces of the king at a distance. 
+
+You can also trade goods at the market for valuable gold. The pig farm and the
+fisherman yield enough food to keep your Townies in a good mood. Do not avoid
+establishing a church for your buddies - god's blessing can be very helpful 
+in some moments! 
+
+Your rebellious settlement represents a big threat for the king and he will 
+try to force you out of his empire. You must prove that your army is not to be
+underestimated! Attack neighboring provinces and bring the king to his knees.
+
+Features 
+
+- Build up strategy game in isometric view
+- Challenging campaign mode and endless game
+- Extra mini game full of action (as a bonus for efficient handsets)
+ - Free placing of buildings on an isometric, scrolling map
+- Map generator
+- Terraforming
+- New buildings such as church, mill, barracks and pig farm
+- Upgrade buildings
+- Downgrade and total demolition of buildings
+- Easy control
+- Simple handling of resources
+- The cute looking residents (Townies) do influence the gameplay
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    04. Story
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+The story so far... 
+
+
+Once there were calm times in the peaceful empire of King Guido, till a 
+reckless horde of settlers invaded in the northwestern part of the realm and 
+disturbed the mellow harmony. The "Townies", as the folks called the savages,
+were barbarians without any decency and manner. Very quick they had got a grip 
+in this fertile valley and it looked almost impossible to get rid of them again
+The Townies were excellent craftsmen and in the twinkling of an eye they had 
+built a mighty settlement. They used the comprehensive raw materials of their
+environment and lived well from the fishery and their own pig farms.
+
+The king couldn't banish them from his land anymore, so he tried to punish them
+with high taxes and bring them down that way. But instead of being frightened, 
+those rebels went out and looted neighbouring provinces and their power grew 
+from month to month. 
+
+As the king tempted to discover new lands to displace his wounded power, 
+his forced army met up with the superior Townies again and lost the battle.  
+
+Since then the king has retired with his family in the highlands. He now leads
+a pig breed and lives with his wife and their two daughters in unison with 
+nature. 
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    06. Townie & Tables
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+About Townie 
+
+Name:
+Townie
+
+Residence:
+Settles mostly in a sunny places near calm water
+
+Nationality:
+European
+
+Date of birth: 
+In the 14th century
+
+Eye color:
+unknown
+
+Height: 
+About 5ft
+
+Hobbies:
+Pig racing, fishing and lazing around
+
+Characteristic:
+Sleazy and sloppy
+
+Favorite drink and food:
+Beer, fresh honey, pork and carp 
+
+Special attributes:
+Is easily offended and hates to be alone
+
+His best friends:
+Pigs - alive or smoked 
+
+------------------------------------------------------------------------------
+Buildings
+------------------------------------------------------------------------------
+
+forester
+stonecutter
+lumber mill
+smeltery  
+blacksmith
+armorer
+pig farm      
+fisherman     
+marketplace   
+church        
+castle        
+barracks      
+mill          
+    
+------------------------------------------------------------------------------
+Resources
+------------------------------------------------------------------------------
+
+wood
+corn
+meat
+iron
+weapons
+lumber
+fish
+stone
+tools
+
+------------------------------------------------------------------------------
+Landscape
+------------------------------------------------------------------------------
+
+grass
+swamp
+stone mountain
+field
+forest
+lake
+iron moountain
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    07. FAQ
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Q: How do I get a highscore?
+A: Highscore are only generated in the random game. The Highscore is calculated
+and saved every time the game is saved. The game can be saved manually in the 
+castle or by using the autosave function. 
+
+Q: What is "alternative control" in the settings menu?
+A: Alternative control stands for two different options of moving the selector
+over the map. The first variant will move the selector from field to field
+horizontally. No fields are left out when moving the selector. 
+The second variant will move the selector in bigger steps horizontally. 
+Every second tile is left out when moving.
+
+Q: Where can I check the mission goals after having started a mission?
+A: You can check the mission goals in the castle. Select the icon showing the
+crossed swords. 
+
+Q: What means "tiles terraformed" and "successful raids" in the mission text?
+A: These values are used in some missions. A tile is counted as "terraformed" 
+after it has been changed to a wood or a lake tile. A successful raid is
+counted when your knights looted at least one resource in a raid. 
+
+Q: How is the minigame working?
+A: Once you have built a barracks you can send knights to a raid. 
+Depending on the device you can lead the raids. When leading a raid the screen
+will switch to a minigame map as soon as the knights are reaching 
+the map border. After switching to the minigame map your knights will follow
+the arrow. This arrow is moved just like the selector in the normal map.
+Try to gather as many resources as possible before getting caught 
+by the enemy Townies. You will only receive resources if at least one of
+your knights survives the given time. 
+
+Q: Why are there 3 icons with just one number in the upkeep screen sometimes?
+A: These icons are counted as one resource group: "Food". As soon as the upkeep
+is due, one of these resources will be removed from the castle storage. 
+
+Q: Some of the Townies have symbols above their heads. What do they mean?
+A: These symbols are indicating the resource this Townie is carrying 
+at the moment. A red flag means that this Townie is carrying more than 
+one resource to supply a building. 
+
+Q: Sometimes there's an "!" or a symbol "!" at the bottom left border of the 
+   screen. What does this mean?
+A: This symbol indicates an important message 
+(storage full, fire or other events). Press the left display key to read
+this message. 
+
+Q: I can't increase the productivity of this building. Why?
+A: The productivity can be set depending on the level of the current building.
+A one star building can increase productivity to 40%, a two star building 
+to 60% and a three star building to 100%. Yet it could happen that you do not
+have enough resources in the castle storage to pay the upkeep for this building
+In this case the productivity can not be increased. 
+
+Q: The corn field of the mill is gone. What can I do?
+A: Check for a free grass field nearby the mill. Change this grass tile to a
+field tile and the mill is working again. 
+
+Q: Why can't I buy and sell all resources in the marketplace?
+A: You can buy and sell various goods in the marketplace depending on the
+level of the marketplace. The higher the level of the marketplace the more 
+goods can be traded. 
+
+Q: What does the church do?
+A: By donating gold to the church you can increase the luck of your Townies. 
+Lucky townies tend to be more successful and might have more lucky incidents.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    08. Walkthrough
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+General hints to build a successful settlement
+
+- You should make sure that you can pay the upkeep of the building you want to
+build next. If not, build the industry (e.g. for food) to secure your upkeep 
+first.
+
+- It is a good thing to have in stock more than you need, because you can sell
+the surplus and earn money.
+
+
+- You can earn a lot of gold with a working tool production
+
+- Always attend to pre-plan short ways for your Townies, 
+because as in real life - time is money!
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 1
+Mission goal:
+
+- 20 units wood
+- 20 units fish
+- 1 lumberjack
+- 2 fishermen
+
+At last! A perfect place for a new settlement! Start with building up your 
+basic supply. Create a lumberjack and fishermen in order to store some wood 
+and fish. Gather enough fish and wood to fill the storage of the castle.
+You start with a simple castle. Place one or two lumberjacks near the forest 
+to gather wood in order to build the two fishermen. After you have build two
+fishermen you will store wood and fish in your castle until you reach the 
+mission goal.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 2
+Mission goal:
+
+- 1 lumber mill
+- 1 stone cutter
+- 2 mills
+- 1 castle level 2
+- 1 pig farm
+- 40 units pigs 
+
+The local king is not amused about your Townies starting a settlement on his
+land, so he is demanding high taxes. Yet the Townies are ignoring him. 
+They'd rather invest their money. Create a sawmill to get some lumber and mine
+stones from the mountains. Upgrade your castle with the gathered lumber and
+stones to create more space for resources. Furthermore build mills and a pig
+farm in order to secure the food supply. A marketplace could help to get some
+gold by selling surplus resources.
+
+You start with two fishermen two lumberjacks that spend you enough wood and
+food resources. First you should build a lumber mill to produce lumber, 
+which you need as a base for your settlement. It’s important that your 
+buildings (lumberjack, armourer, pig farm and blacksmith) are close to 
+the castle, because short ways will improve production time.
+
+The next important construction is the stone cutter. After that you are able 
+to put up two mills, a pig farm and the market.
+
+Tipp:
+Always keep an eye on your upkeep and build some fishermen if you want to avoid
+running out of food.
+
+Finish the mission by upgrading your castle and storing 40 pigs.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 3
+Mission goal:
+
+- 1 smeltery
+- 1 blacksmith
+- 1armourer
+- 1 castle level 2
+- 1 marketplace level 3
+- 40 units tools
+- 40 units weapons              
+- achieve mission goal within 300 days!
+
+You have been warned by the king! If you do not pay your taxes, he will send 
+his army to collect the debt. You should better prepare for this! Mine the iron
+from the nearby mountains and produce tools and weapons. 
+Upgrade the marketplace to sell more goods like iron and tools. 
+Hurry up! The king will be here within 300 days!
+
+At the beginning you have a big settlement with enough food, wood and lumber
+production. It is a good idea to build one further stonecutter to accelerate
+your progress. 300 days is a lot of time, so don't hurry.
+
+Next step is to enlarge your wood turnout and to upgrade your market to the 
+next level, because with the market at level two you can yield more gold. 
+Furthermore, it’s recommended to build smelteries in the early game to 
+store a lot of iron for the blacksmith.
+
+To finish the mission, you have to have in storage 40 tools and 40 weapons.
+But castle storage at level one is only able to store 20 pieces of each good.
+So, you will have to upgrade your castle in order to get a bigger storage. 
+
+In mission three it is important to have a big variety of food productions
+to ensure your upkeep. Therefore, you can use pig farms, fishermen and mills.
+As soon as you have the blacksmith and the armourer you can concentrate on
+producing the needed amount of tools and weapons.
+Finally you can upgrade your market to level three and the mission is done!
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 4
+Mission goal:
+
+- terraform 10 map tiles
+- gold never drops below 100
+- achieve mission goal within 250 days
+
+The king is very angry now! He announced that he will send his troops to teach
+you some manners. Meanwhile some of your Townies have traveled to the south. 
+They have discovered valuable stone and iron sources in the mountains there.
+Yet in this area there are only few forests and lakes. Terraform this region 
+to a suitable place for a new settlement. Create new forests and lakes and 
+keep an eye on your gold. Your Townies will lose the faith in you if your gold
+drops too low. Furthermore you have to act quickly to get back to your main 
+problem: the king.
+
+As from now on the time limits are tight - so you need to hurry! 
+Always keep an eye on your remaining gold and ensure a little safety margin, 
+so that you have around 110 - 120.
+It is important to terraform grass to wood in the early days, 
+because the surrounding forest will not yield the amounts you will need.
+
+It would be clever to base your food production near the castle. 
+Now you should have a constant income of gold to terraform lakes & wood 
+and even to build some more lumberjacks to finish the mission in time.
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 5
+Mission goal:
+
+- 2 barracks
+- 15 successful raids
+- 200 coins of gold
+- achieve the mission goal within 100 days
+
+The time has come! Troops of the king have marched out! Yet the king has not 
+expected the courage of the Townies! A hidden outpost was created in a small 
+swampy area. You can use it to start raids on the nearby camps of the 
+king's army. Build at least two barracks and loot as many gold and goods as 
+possible. A little blessing might be useful. Act quickly! 
+Our hideout will not stay unnoticed forever.
+
+You start with a little industry designed for weapon productions that you will
+need for raids. A raid is done with the barracks built. You must have weapons
+in stock to arm your troops. You should win the mission with two barracks and
+a church. The best thing to do is to perform raids by yourself instead of 
+using the automated raid option. With a little bit of training you will gather
+more goods and less likely to fail. Always spend some gold in the church to 
+keep the blessing of your Townies!
+
+If you lead a raid select the position your crew has to walk to. 
+The enemy castle spreads defenders that your troops have to avoid, 
+because in case of a collision with enemy forces you might lose some of 
+your Townies. Gather all resources which pop up at random points and 
+finish the raid with at least one soldier alive. Long diagonal runs help 
+shaking off the hostile pursuers. 
+
+If you have no luck with the raids for a longer period of time, use the market
+to buy food and resources for the productivity of your buildings. 
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 6
+Mission goal:
+
+- 800 coins of gold
+- 1 church level 3
+
+Hooray! The king's troops have been defeated! Your men have been divinely 
+favored. Grateful, your Townies want to build a great church. Show what you 
+have learned and lead your Townies in this swampy area to earthly and divine 
+prosperity! 
+
+Mission six starts on a very swampy area, so you will have to do a lot of 
+terraforming. First you should take care of the places close to the castle,
+which makes more sense because of the short distance.
+Use the little amount of free tiles all over the map to build basic structures
+like fishermen, lumberjacks, stonecutters and a lumber mill. You can build the
+marketplace far away from the castle, because there is no transporting between
+those two buildings. 
+
+Do a lot of terraforming and extend your settlement using common structures in
+order to earn money with selling a big surplus of all resources, especially 
+wood when the market is at level two.Aim to create a tool industry and upgrade
+the market to level three, which will generate a higher income.
+For a working tool production you need a lot of iron and wood, so be aware to
+build the right structures early enough. 
+
+You also need tools to create and upkeep buildings on a higher level, 
+then you are able to upgrade some of them. Concentrate first on upgrading basic
+upkeep suppliers like your food industry. Now you should earn the amount of 
+gold needed with tools and other goods. Finish the mission by setting up a 
+church at level three. 
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 7
+Mission goal:
+
+- 1500 coins of gold
+- 20 successful raids
+- 1 barracks level 3
+- 80 lumber
+- achieve the mission goal within 650 days 
+
+Rumor has it that there is a new and mysterious world far to the west over the
+great ocean. A paradise of most wondrous items and wealth. The king demands all
+these things for him and is starting an expedition. The Townies want to prevent
+the king's plan and started an expedition of their own. Win this race! 
+A lot of gold, a good barracks and enough lumber will be necessary to build 
+boats. Will the Townies be able to achieve all these things before the king
+does?
+
+In this mission you have a big map with a lot of free space, but you should 
+build your first buildings near the castle except the fishing and wood industry
+You start with a castle at level two, which makes it easy to store and trade in
+the beginning. The map is rich with resources. You can get a lot of money 
+with wood, stones and iron for a big growth.
+
+In this mission you must win 20 raids successfully, which will take a lot of
+time. So build two or three barracks and don't forget to create an armourer
+to supply your troops with weapons. Blessing from the church is also important
+if you need to win a lot of raids. Upgrade your barracks from time to time,
+because having the barracks on level three is one of the mission goals.
+
+Upgrade the buildings near the castle to level three in order to gain 
+1500 coins of gold which will take some time. 
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+                                 Mission 8
+Mission goal:
+
+- 1000 gold 
+- 1 smeltery level 3
+- 1 pig farm level 3
+- 1 church level 3 
+- 1 mill level 3
+- 1 lumber mill level 3
+- 1 blacksmith level 3
+- 1 fishermen level 3 
+- 1 lumberjack level 3
+- 1 stone cutter level 3
+- 1 armourer level 3
+- 1 marketplace level 3
+- 1 barracks level 3
+
+Your sailors have reached the new world before the king. 
+They returned with precious gems and other valuable items. 
+Your trade with the new world is working well while the king is not able to 
+make as much money as you do. Now you've got the chance to show him once and 
+for all how to rule a kingdom. Build a city big enough to spread the word of 
+your wealth and prosperity! 
+
+This mission takes places on a big map with a lot of resources and with a 
+difficult goal. You have to take your whole industry to level three. 
+So you really have to invest a lot of time into securing the upkeep, 
+because buildings at level three take a lot of gold, food, tools and some 
+other goods. You start with a castle at level three and a lot of money and
+resources. Therefore you should build an army of lumberjacks, fisherman,
+stonecutters, smelteries and mills. Build two sawmills and a pig farm near the
+castle and try to push the market to level three in a short time.
+
+The upkeep for your buildings will be very expensive. A huge tool industry is 
+a reliable source for enough gold. Upgrade some of your lumberjacks and 
+smelteries to level two, because the tool production needs a lot of iron 
+and wood. With an intact industry you can start to upgrade all your buildings.
+Begin with the food industry and later with buildings like the church, 
+the barracks or the armourer. Always have an eye on your upkeep and enlarge 
+your industry or decrease the productivity of buildings you don’t need in case
+of lacking resources. 
+
+Finally! Word has it in the realm that a small group of Townies has messed 
+around with the king. Mortified by the permanent defeats the king decided to 
+resign. He handed over his kingdom to the Townies and left. 
+Years later rumours spoke of the king having become a humble pig farmer... 
+
+When you have mastered mission eight, you are ready for the big game! 
+You learned all helpful tricks to create a prospering settlement by your own
+and you can try to achieve the best highscore in Townsmen 2 history. 
+Good luck! 
+
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+    09. Credits
+~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+
+Thanks for reading!
+
+CJayC         Do I have to mention it?
+Handy Games   For this great game
+
+Devon Kerkhove,
+End.
+
+Townsmen 2: FAQ/Walkthrough by Skye7707
+Version: Final | Last Updated: 2005-04-19 | View/Download Original File
+Hosted by GameFAQs
+Return to Townsmen 2 (MOBILE) FAQs & Guides

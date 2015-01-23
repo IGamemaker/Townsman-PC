@@ -1,0 +1,10 @@
+D:\Programing\Townsman2d\Townsman2dLauncher\bin\Debug\Townsman2dLauncher.exe
+D:\Programing\Townsman2d\Townsman2dLauncher\bin\Debug\Townsman2dLauncher.pdb
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\Townsman2dLauncher.Properties.Resources.resources
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\Townsman2dLauncher.exe
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\Townsman2dLauncher.pdb
+D:\Programing\Townsman2d\Townsman2dLauncher\bin\Debug\INIFileParser.dll
+D:\Programing\Townsman2d\Townsman2dLauncher\obj\x86\Debug\Townsman2dLauncher.Form1.resources
